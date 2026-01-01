@@ -1,6 +1,6 @@
 """Data ingestion layer for Google Ads API responses."""
 
-##test commit
+##test commit 2
 import logging
 from datetime import datetime
 from typing import Any, Optional
